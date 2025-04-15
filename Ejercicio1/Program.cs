@@ -15,7 +15,7 @@ namespace Ejercicio1
             Console.Write("Ingrese valor a: ");
             a = int.Parse(Console.ReadLine());
 
-            Console.Write("Ingrese valor de b: ");
+            Console.Write("Ingrese valor b: ");
             b = int.Parse(Console.ReadLine());
 
             if (a>b)
