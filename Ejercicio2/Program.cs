@@ -10,7 +10,7 @@ namespace Ejercicio2
     {
         static void Main(string[] args)
         {
-            int n1, n2;
+            int  n1, n2;
 
             Console.Write("Ingrese numero1: ");
             n1 = int.Parse(Console.ReadLine());
